@@ -67,7 +67,7 @@ uv run python run_llm.py --model_id <model_id> --excel_path <path.xlsx> --sheet_
 ```
 uv run python compute_metrics.py --input_path <input_path.csv> --output_path <output_path.xlsx> 
 ```
-### 6. Run metrics
+#### 6. Run metrics
 
 **Prerequisites:**
 
